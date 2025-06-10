@@ -1,5 +1,5 @@
 # stateTypes
-# HW4: Object Oriented Game of Life Simulation
+# Object Oriented Game of Life Simulation
 
 This project is a Java implementation of Conway’s Game of Life using object oriented design principles. It includes multiple versions of the simulation, applying classic software design patterns such as **Observer** and **Singleton**.
 
